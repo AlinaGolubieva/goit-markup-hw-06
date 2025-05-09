@@ -199,12 +199,12 @@ button {
 } */ */
 
 /* Main section solutions */
-.section-solutions {
+/* .section-solutions {
   padding: 120px 0;
 }
 .solutions {
   /* display: flex; */
-  gap: 24px;
+  /* gap: 24px;
 }
 
 .solution-list {
@@ -241,15 +241,15 @@ button {
   /* line-height: 150%;
   letter-spacing: 0.02em; */
   color: #434455;
-}
+} 
 
 /* Main section our time */
-.time {
-  background: #f4f4fd;
+/* .time {
+  /* background: #f4f4fd; */
   padding: 120px 0;
 }
 
-.time-title {
+/* .time-title {
   margin-bottom: 72px;
   font-weight: 700;
   font-size: 36px;
@@ -258,10 +258,10 @@ button {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-}
+} */
 
 .time-list {
-  display: flex;
+  /* display: flex; */
   gap: 24px;
 }
 
@@ -294,7 +294,7 @@ button {
   text-align: center;
   color: #434455;
   margin-bottom: 8px;
-}
+} */
 
 /* .socials-icons {
   display: flex;

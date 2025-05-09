@@ -635,3 +635,71 @@ span {
     font-weight: 400;
   }
 }
+
+/* Main section our time */
+.time {
+  background: #f4f4fd;
+  padding: 96px 0;
+}
+
+.time-title {
+  margin-bottom: 72px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+
+.time-list {
+  display: flex;
+  gap: 72px 0;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.time-list-item {
+  text-align: center;
+  background: #fff;
+  border-radius: 0 0 4px 4px;
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+}
+
+.time-text-container {
+  padding: 32px 0;
+}
+
+.time-persons {
+  margin-bottom: 8px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.time-persons-professions {
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+  margin-bottom: 8px;
+}
+
+@media screen and (min-width: 768px) {
+  .time-list {
+    gap: 72px 24px;
+  }
+}
+
+@media screen and (min-width: 1158px) {
+  .time-list {
+    gap: 24px;
+    flex-wrap: nowrap;
+  }
+}
