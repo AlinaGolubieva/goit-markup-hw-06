@@ -412,59 +412,59 @@ button {
 } */
 
 /* Footer */
-.footer {
+/* .footer {
   padding: 100px 0;
-  background: #2e2f42;
-}
+  /* background: #2e2f42; */
+} */
 
-.footer-div {
-  display: flex;
-  align-items: baseline;
-}
+/* .footer-div {
+  /* display: flex; */
+  /* align-items: baseline;
+} */ */
 
 .footer-info {
   margin-right: 120px;
 }
 
-.footer-logo {
-  display: inline-block;
-  margin-bottom: 16px;
+/* .footer-logo {
+  display: inline-block; */
+  /* margin-bottom: 16px;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4d5ae5;
+  color: #4d5ae5; */
 }
 
-.footer-span {
+/* .footer-span {
   color: #f4f4fd;
-}
+} */
 
-.footer-text {
+/* .footer-text {
   width: 264px;
   font-weight: 400;
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-}
+} */
 
-.footer-social-link-text {
+/* .footer-social-link-text {
   font-weight: 500;
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
-}
+} */
 
-.footer-socials-icons {
+/* .footer-socials-icons {
   display: flex;
   justify-content: center;
   gap: 16px;
-}
+} */
 
-.footer-link:hover {
+/* .footer-link:hover {
   background-color: #31d0aa;
 }
 
@@ -474,20 +474,20 @@ button {
 
 .svg-footer {
   fill: #f4f4fd;
-}
+} */
 
 .footer-subscribe {
   margin-left: auto;
 }
 
 .footer-form {
-  display: flex;
-  align-items: center;
+  /* display: flex;
+  align-items: center; */
   margin-bottom: 16px;
   gap: 24px;
 }
 
-.footer-email-input {
+/* .footer-email-input {
   border: 1px solid #fff;
   border-radius: 4px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
@@ -504,9 +504,9 @@ button {
 
 .footer-email-input::placeholder {
   color: #ffffff;
-}
+} */
 
-.button-email-submit {
+/* .button-email-submit {
   font-weight: 500;
   line-height: 150%;
   letter-spacing: 0.04em;
@@ -522,9 +522,9 @@ button {
   align-items: center;
   cursor: pointer;
   border: none;
-}
+} */
 
-.icon-airplane {
+/* .icon-airplane {
   fill: currentColor;
   margin-left: 16px;
 }
@@ -535,7 +535,7 @@ button {
 
 .footer-email-input:hover {
   border: 1px solid #31d0aa;
-}
+} */
 
 /* Modal */
 .backdrop {
