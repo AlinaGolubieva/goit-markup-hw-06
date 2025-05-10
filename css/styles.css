@@ -944,8 +944,9 @@ span {
 
 @media screen and (min-width: 768px) {
   .footer-div {
-    justify-content: center;
+    justify-content: left;
     align-items: flex-start;
+    padding-left: 108px;
   }
 
   .footer-info {
@@ -965,10 +966,6 @@ span {
   .footer-social-link-text {
     text-align: start;
   }
-
-  .button-email-submit {
-    margin-right: 44px;
-  }
 }
 
 @media screen and (min-width: 1158px) {
@@ -978,7 +975,8 @@ span {
 
   .footer-div {
     align-items: baseline;
-    padding-bottom: 0;
+    flex-wrap: nowrap;
+    padding-left: 16px;
   }
 
   .footer-info {
